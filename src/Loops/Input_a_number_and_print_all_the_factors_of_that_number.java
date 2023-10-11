@@ -1,3 +1,5 @@
+package Loops;
+
 import java.util.Scanner;
 
 public class Input_a_number_and_print_all_the_factors_of_that_number {

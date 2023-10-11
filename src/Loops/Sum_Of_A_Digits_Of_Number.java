@@ -1,3 +1,5 @@
+package Loops;
+
 import java.util.Scanner;
 
 public class Sum_Of_A_Digits_Of_Number {

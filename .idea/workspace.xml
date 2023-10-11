@@ -5,11 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7b77bfbd-066a-416d-b31d-65c1ebbea506" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Find_if_a_number_is_palindrome_or_not.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LCM_Of_Two_Numbers_Euclidean_Algorithm.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sum_Of_A_Digits_Of_Number.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Loops/Anshul_is_allowed_to_go_out_with_his_friends_only_on_the_even_days_of_a_given_month_Write_a_program_to_count_the_number_of_days_he_can_go_out_in_the_month_of_August.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java-DSA/Armstrong_Number_between_two_numbers.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java-DSA/Armstrong_Number_between_two_numbers.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Area_Of_Circle_Java_Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Loops/Area_Of_Circle_Java_Program.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Area_Of_Triangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Loops/Area_Of_Triangle.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,7 +50,12 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;advanced.settings&quot;
   }
 }</component>
-  <component name="RunManager">
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Anshul Dhoundiyal\Java-DSA\src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Area_Of_Circle_Java_Program">
     <configuration name="Area_Of_Circle_Java_Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Area_Of_Circle_Java_Program" />
       <module name="Java-DSA" />
@@ -94,5 +98,16 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Loops/Anshul_is_allowed_to_go_out_with_his_friends_only_on_the_even_days_of_a_given_month_Write_a_program_to_count_the_number_of_days_he_can_go_out_in_the_month_of_August.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

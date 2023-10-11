@@ -1,3 +1,5 @@
+package Loops;
+
 import java.util.Scanner;
 
 public class LCM_Of_Two_Numbers_Euclidean_Algorithm {

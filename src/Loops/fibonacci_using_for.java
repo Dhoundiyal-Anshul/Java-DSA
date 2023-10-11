@@ -1,3 +1,5 @@
+package Loops;
+
 import java.util.Scanner;
 
 public class fibonacci_using_for {

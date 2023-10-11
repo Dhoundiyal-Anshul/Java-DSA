@@ -1,4 +1,4 @@
-/* import java.util.Scanner; */
+package Loops;/* import java.util.Scanner; */
 
 public class Function {
     public static void main(String[] args) {

@@ -1,3 +1,5 @@
+package Loops;
+
 import java.util.Scanner;
 
 public class Armstrong_Number_between_two_numbers {

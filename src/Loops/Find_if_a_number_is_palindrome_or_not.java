@@ -1,3 +1,5 @@
+package Loops;
+
 import java.util.Scanner;
 
 public class Find_if_a_number_is_palindrome_or_not {
