@@ -5,11 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7b77bfbd-066a-416d-b31d-65c1ebbea506" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Java-DSA/Input_a_number_and_print_all_the_factors_of_that_number.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java-DSA/Subtract_the_Product_and_Sum_of_Digits_of_an_Integer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java-DSA/Subtract_the_Product_and_Sum_of_Digits_of_an_Integer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Input_a_number_and_print_all_the_factors_of_that_number.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Input_a_number_and_print_all_the_factors_of_that_number.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Find_if_a_number_is_palindrome_or_not.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LCM_Of_Two_Numbers_Euclidean_Algorithm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sum_Of_A_Digits_Of_Number.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java-DSA/Armstrong_Number_between_two_numbers.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java-DSA/Armstrong_Number_between_two_numbers.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -94,16 +94,5 @@
         </entry>
       </map>
     </option>
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Input_a_number_and_print_all_the_factors_of_that_number.java</url>
-          <line>12</line>
-          <option name="timeStamp" value="6" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>
